@@ -1,0 +1,19 @@
+{
+  "name": "sudi-speedoc",
+  "version": "1.0.0",
+  "description": "Using the NodeJS runtime, create an app and write JS code using the most up to date ES specifications. Code must be efficient and easy to read. Most importantly write reusable and elegant code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Speedoc/test-backend-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Speedoc/test-backend-nodejs/issues"
+  },
+  "homepage": "https://github.com/Speedoc/test-backend-nodejs#readme"
+}
