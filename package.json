@@ -4,6 +4,7 @@
   "description": "Using the NodeJS runtime, create an app and write JS code using the most up to date ES specifications. Code must be efficient and easy to read. Most importantly write reusable and elegant code.",
   "main": "index.js",
   "scripts": {
+    "dev": "./node_modules/nodemon/bin/nodemon.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
