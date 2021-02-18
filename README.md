@@ -12,3 +12,10 @@ The retrieved and extracted data must be stored locally in a json file for furth
 ### Going further - Filter the data
 Running a simplistic point algorithm, filter out the price data to get an overall trend with a percentage comparaison between start and end.
 Store the filtered points in a different json file locally.
+
+### How?
+X Make sure API key has no limit when testing ...
+```
+node index.js
+```
+Open browser http://localhost:3000/dump
