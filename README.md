@@ -19,3 +19,6 @@ X Make sure API key has no limit when testing ...
 npm run dev
 ```
 Open browser http://localhost:3000/dump
+
+
+I applied as devops, not backend, so give a reasonable question..
